@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CProjects\\fuckingBackDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A2A0BE-1514-4C55-AC84-70F0E90CF887}|PhoneRu\\PhoneRu.csproj|c:\\cprojects\\fuckingbackdotnet\\phoneru\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A2A0BE-1514-4C55-AC84-70F0E90CF887}|PhoneRu\\PhoneRu.csproj|solutionrelative:phoneru\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A2A0BE-1514-4C55-AC84-70F0E90CF887}|PhoneRu\\PhoneRu.csproj|c:\\cprojects\\fuckingbackdotnet\\phoneru\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9A2A0BE-1514-4C55-AC84-70F0E90CF887}|PhoneRu\\PhoneRu.csproj|solutionrelative:phoneru\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A2A0BE-1514-4C55-AC84-70F0E90CF887}|PhoneRu\\PhoneRu.csproj|c:\\cprojects\\fuckingbackdotnet\\phoneru\\atributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A2A0BE-1514-4C55-AC84-70F0E90CF887}|PhoneRu\\PhoneRu.csproj|solutionrelative:phoneru\\atributes\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A2A0BE-1514-4C55-AC84-70F0E90CF887}|PhoneRu\\PhoneRu.csproj|c:\\cprojects\\fuckingbackdotnet\\phoneru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A2A0BE-1514-4C55-AC84-70F0E90CF887}|PhoneRu\\PhoneRu.csproj|solutionrelative:phoneru\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\CProjects\\fuckingBackDotNet\\PhoneRu\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PhoneRu\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\CProjects\\fuckingBackDotNet\\PhoneRu\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PhoneRu\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T10:36:58.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\CProjects\\fuckingBackDotNet\\PhoneRu\\appsettings.json",
+              "RelativeDocumentMoniker": "PhoneRu\\appsettings.json",
+              "ToolTip": "C:\\CProjects\\fuckingBackDotNet\\PhoneRu\\appsettings.json",
+              "RelativeToolTip": "PhoneRu\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T10:36:02.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\CProjects\\fuckingBackDotNet\\PhoneRu\\Atributes\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "PhoneRu\\Atributes\\AuthorizeAttribute.cs",
+              "ToolTip": "C:\\CProjects\\fuckingBackDotNet\\PhoneRu\\Atributes\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "PhoneRu\\Atributes\\AuthorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T09:52:18.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CProjects\\fuckingBackDotNet\\PhoneRu\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneRu\\Program.cs",
+              "ToolTip": "C:\\CProjects\\fuckingBackDotNet\\PhoneRu\\Program.cs",
+              "RelativeToolTip": "PhoneRu\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T14:31:30.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
